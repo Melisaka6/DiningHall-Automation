@@ -1,0 +1,30 @@
+C:\Users\melis\source\repos\Yemekhane Kayıt Programı\bin\Debug\Yemekhane Kayıt Programı.exe.config
+C:\Users\melis\source\repos\Yemekhane Kayıt Programı\bin\Debug\Yemekhane Kayıt Programı.exe
+C:\Users\melis\source\repos\Yemekhane Kayıt Programı\bin\Debug\Yemekhane Kayıt Programı.pdb
+C:\Users\melis\source\repos\Yemekhane Kayıt Programı\obj\Debug\Yemekhane Kayıt Programı.csproj.AssemblyReference.cache
+C:\Users\melis\source\repos\Yemekhane Kayıt Programı\obj\Debug\Yemekhane_Kayıt_Programı.Properties.Resources.resources
+C:\Users\melis\source\repos\Yemekhane Kayıt Programı\obj\Debug\Yemekhane Kayıt Programı.csproj.GenerateResource.cache
+C:\Users\melis\source\repos\Yemekhane Kayıt Programı\obj\Debug\Yemekhane Kayıt Programı.csproj.CoreCompileInputs.cache
+C:\Users\melis\source\repos\Yemekhane Kayıt Programı\obj\Debug\Yemekhane Kayıt Programı.exe
+C:\Users\melis\source\repos\Yemekhane Kayıt Programı\obj\Debug\Yemekhane Kayıt Programı.pdb
+C:\Users\melis\source\repos\Yemekhane Kayıt Programı\obj\Debug\Yemekhane_Kayıt_Programı.Kullanıcıgirisekrani.resources
+C:\Users\melis\source\repos\Yemekhane Kayıt Programı\obj\Debug\Yemekhane_Kayıt_Programı.Müşteri_Bilgileri.resources
+C:\Users\melis\source\repos\Yemekhane Kayıt Programı\obj\Debug\Yemekhane_Kayıt_Programı.Bakiye_Yükle.resources
+C:\Users\melis\source\repos\Yemekhane Kayıt Programı\obj\Debug\Yemekhane_Kayıt_Programı.Yemek_Listesi.resources
+C:\Users\melis\source\repos\Yemekhane Kayıt Programı\obj\Debug\Yemekhane_Kayıt_Programı.form.FiyatListesi.resources
+C:\Users\melis\OneDrive\Masaüstü\YEMEKHANE KAYIT PROGRAMI\Yemekhane Kayıt Programı\bin\Debug\Yemekhane Kayıt Programı.exe.config
+C:\Users\melis\OneDrive\Masaüstü\YEMEKHANE KAYIT PROGRAMI\Yemekhane Kayıt Programı\bin\Debug\Yemekhane Kayıt Programı.exe
+C:\Users\melis\OneDrive\Masaüstü\YEMEKHANE KAYIT PROGRAMI\Yemekhane Kayıt Programı\bin\Debug\Yemekhane Kayıt Programı.pdb
+C:\Users\melis\OneDrive\Masaüstü\YEMEKHANE KAYIT PROGRAMI\Yemekhane Kayıt Programı\obj\Debug\Yemekhane Kayıt Programı.csproj.AssemblyReference.cache
+C:\Users\melis\OneDrive\Masaüstü\YEMEKHANE KAYIT PROGRAMI\Yemekhane Kayıt Programı\obj\Debug\Yemekhane_Kayıt_Programı.Bakiye_Yükle.resources
+C:\Users\melis\OneDrive\Masaüstü\YEMEKHANE KAYIT PROGRAMI\Yemekhane Kayıt Programı\obj\Debug\Yemekhane_Kayıt_Programı.form.FiyatListesi.resources
+C:\Users\melis\OneDrive\Masaüstü\YEMEKHANE KAYIT PROGRAMI\Yemekhane Kayıt Programı\obj\Debug\Yemekhane_Kayıt_Programı.Kullanıcıgirisekrani.resources
+C:\Users\melis\OneDrive\Masaüstü\YEMEKHANE KAYIT PROGRAMI\Yemekhane Kayıt Programı\obj\Debug\Yemekhane_Kayıt_Programı.Müşteri_Bilgileri.resources
+C:\Users\melis\OneDrive\Masaüstü\YEMEKHANE KAYIT PROGRAMI\Yemekhane Kayıt Programı\obj\Debug\Yemekhane_Kayıt_Programı.form.Sifre_degistir.resources
+C:\Users\melis\OneDrive\Masaüstü\YEMEKHANE KAYIT PROGRAMI\Yemekhane Kayıt Programı\obj\Debug\Yemekhane_Kayıt_Programı.form.Yeni_Kayit.resources
+C:\Users\melis\OneDrive\Masaüstü\YEMEKHANE KAYIT PROGRAMI\Yemekhane Kayıt Programı\obj\Debug\Yemekhane_Kayıt_Programı.Properties.Resources.resources
+C:\Users\melis\OneDrive\Masaüstü\YEMEKHANE KAYIT PROGRAMI\Yemekhane Kayıt Programı\obj\Debug\Yemekhane_Kayıt_Programı.Yemek_Listesi.resources
+C:\Users\melis\OneDrive\Masaüstü\YEMEKHANE KAYIT PROGRAMI\Yemekhane Kayıt Programı\obj\Debug\Yemekhane Kayıt Programı.csproj.GenerateResource.cache
+C:\Users\melis\OneDrive\Masaüstü\YEMEKHANE KAYIT PROGRAMI\Yemekhane Kayıt Programı\obj\Debug\Yemekhane Kayıt Programı.csproj.CoreCompileInputs.cache
+C:\Users\melis\OneDrive\Masaüstü\YEMEKHANE KAYIT PROGRAMI\Yemekhane Kayıt Programı\obj\Debug\Yemekhane Kayıt Programı.exe
+C:\Users\melis\OneDrive\Masaüstü\YEMEKHANE KAYIT PROGRAMI\Yemekhane Kayıt Programı\obj\Debug\Yemekhane Kayıt Programı.pdb
